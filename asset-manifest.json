@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Outlook/static/css/main.4d13d99f.css",
+    "main.js": "/Outlook/static/js/main.28b3d2b2.js",
+    "static/js/787.b7cacdc2.chunk.js": "/Outlook/static/js/787.b7cacdc2.chunk.js",
+    "static/media/Email.png": "/Outlook/static/media/Email.972ee94400749cc5154b.png",
+    "index.html": "/Outlook/index.html",
+    "main.4d13d99f.css.map": "/Outlook/static/css/main.4d13d99f.css.map",
+    "main.28b3d2b2.js.map": "/Outlook/static/js/main.28b3d2b2.js.map",
+    "787.b7cacdc2.chunk.js.map": "/Outlook/static/js/787.b7cacdc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d13d99f.css",
+    "static/js/main.28b3d2b2.js"
+  ]
+}
